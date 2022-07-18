@@ -40,5 +40,5 @@ The app should provide an error message back to the user for each of the followi
 ### 4. Result
 Given no failure mode occurs, your app should add a tuple into the yrb_purchase table with the specified parameters.
 
-More Details Can Be Found in the Below:
+More details can be found at:
 [AddPurchase-project.pdf](https://github.com/razaviah/AddPurchase-Project/files/9134571/AddPurchase.project.pdf)
